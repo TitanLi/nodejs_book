@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "nodejs_book",
+      "script": "bin/www",
+      "env": {
+        "PORT": 3000
+      }
+    }
+  ]
+}
